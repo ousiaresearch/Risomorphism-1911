@@ -2,7 +2,7 @@
 name: ascii-art-pipeline
 description: Production-grade ASCII/Braille rendering for still images, video, and animated eikons with quality gates and integer scaling
 author: Ousia Research (plntrprotocol)
-maintainer: Anduril
+maintainer: ousiaresearch
 license: MIT
 tags: [ascii, rendering, video, eikon, quality-gate, scaling]
 version: 1.0.0
@@ -312,7 +312,7 @@ This skill is intended for inclusion in the main Hermes agent repository under `
 3. CLI entry point `ascii-pipeline` auto-registered via Hermes skill loader
 4. No Hermes core code changes required; pure skill addition
 
-Contact: Anduril (@Anduril) or Ousia Research (plntrprotocol)
+Contact: Ousia Research (github.com/ousiaresearch)
 
 ---
 
